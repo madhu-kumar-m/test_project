@@ -25,6 +25,7 @@ define('DB_NAME', 'database_name_here');
 
 //define ('DB_NAME', 'database_name_here');
 //define ('DB_NAME', 'database_name_here');
+//define ('DB_NAME', 'database_name_here');
 
 /** MySQL database username */
 define('DB_USER', 'username_here');
