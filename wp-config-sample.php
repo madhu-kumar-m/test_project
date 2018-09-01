@@ -22,10 +22,13 @@ define('WP_MEMORY_LIMIT', '128M');
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 define('DB_NAME', 'database_name_here');
+<<<<<<< HEAD
 
 //define ('DB_NAME', 'database_name_here');
 //define ('DB_NAME', 'database_name_here');
 //define ('DB_NAME', 'database_name_here');
+=======
+>>>>>>> parent of 4ff0e34... modified wp-config
 
 /** MySQL database username */
 define('DB_USER', 'username_here');
