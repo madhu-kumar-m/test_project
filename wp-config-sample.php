@@ -23,10 +23,13 @@ define('WP_MEMORY_LIMIT', '128M');
 /** The name of the database for WordPress */
 define('DB_NAME', 'database_name_here');
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 //define ('DB_NAME', 'database_name_here');
 //define ('DB_NAME', 'database_name_here');
 //define ('DB_NAME', 'database_name_here');
+=======
+>>>>>>> parent of 4ff0e34... modified wp-config
 =======
 >>>>>>> parent of 4ff0e34... modified wp-config
 
